@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hive</string>
+    <string name="str_password_validation">Password must be at least 8 characters long and contain at least one special character, one uppercase, and one lowercase character.</string>
+    <string name="str_password">Password</string>
+    <string name="str_type_here">Type password here</string>
+    <string name="str_exception">Unknown Exception</string>
+    <string name="str_welcome">Welcome to Hive</string>
+    <string name="str_next">Next</string>
+    <string name="str_your_password">your password is</string>
+    <string name="str_clear">Clear</string>
+</resources>
